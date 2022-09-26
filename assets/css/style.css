@@ -98,3 +98,9 @@ footer p{
 }
 
 .highlight{color: blue}
+
+#holiday {
+  width: 100%;
+  height: auto;
+  background-color: Yellow
+}
